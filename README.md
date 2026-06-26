@@ -24,4 +24,9 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
