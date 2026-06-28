@@ -16,6 +16,7 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +30,12 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
