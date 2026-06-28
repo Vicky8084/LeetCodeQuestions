@@ -17,6 +17,7 @@ Solutions are automatically synchronized.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
 ## Math
 |  |
 | ------- |
@@ -34,8 +35,10 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
 ## Sliding Window
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->
