@@ -23,12 +23,14 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2129-capitalize-the-title) |
@@ -50,4 +52,8 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
