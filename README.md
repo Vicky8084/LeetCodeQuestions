@@ -16,6 +16,7 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
 ## Math
@@ -27,6 +28,7 @@ Solutions are automatically synchronized.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Solutions are automatically synchronized.
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
