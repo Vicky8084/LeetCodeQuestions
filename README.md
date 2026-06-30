@@ -30,6 +30,7 @@ Solutions are automatically synchronized.
 | [0020-valid-parentheses](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2129-capitalize-the-title) |
 ## Stack
 |  |
