@@ -29,6 +29,7 @@ Solutions are automatically synchronized.
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
