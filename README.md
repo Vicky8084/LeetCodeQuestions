@@ -24,6 +24,7 @@ Solutions are automatically synchronized.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
+| [3894-traffic-signal-color](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Solutions are automatically synchronized.
 | [0520-detect-capital](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2129-capitalize-the-title) |
+| [3894-traffic-signal-color](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,5 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
+| [3894-traffic-signal-color](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
