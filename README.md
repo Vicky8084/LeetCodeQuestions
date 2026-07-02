@@ -19,12 +19,14 @@ Solutions are automatically synchronized.
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
+| [3945-digit-frequency-score](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
 | [3894-traffic-signal-color](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
