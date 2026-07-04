@@ -38,6 +38,7 @@ Solutions are automatically synchronized.
 | [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0709-to-lower-case) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2129-capitalize-the-title) |
 | [3813-vowel-consonant-score](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3894-traffic-signal-color) |
@@ -48,6 +49,7 @@ Solutions are automatically synchronized.
 ## Array
 |  |
 | ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
 ## Sliding Window
