@@ -25,6 +25,7 @@ Solutions are automatically synchronized.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0633-sum-of-square-numbers) |
 | [3894-traffic-signal-color](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3945-digit-frequency-score) |
 ## String
@@ -71,4 +72,9 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
