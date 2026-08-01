@@ -17,6 +17,7 @@ Solutions are automatically synchronized.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
 | [3945-digit-frequency-score](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3945-digit-frequency-score) |
@@ -24,6 +25,7 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0633-sum-of-square-numbers) |
 | [3894-traffic-signal-color](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/3894-traffic-signal-color) |
@@ -50,6 +52,7 @@ Solutions are automatically synchronized.
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2653-sliding-subarray-beauty) |
@@ -62,6 +65,7 @@ Solutions are automatically synchronized.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -76,5 +80,10 @@ Solutions are automatically synchronized.
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0633-sum-of-square-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
