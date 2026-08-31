@@ -52,6 +52,7 @@ Solutions are automatically synchronized.
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -64,6 +65,7 @@ Solutions are automatically synchronized.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 ## Simulation
@@ -75,6 +77,7 @@ Solutions are automatically synchronized.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
