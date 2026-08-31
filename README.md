@@ -52,6 +52,7 @@ Solutions are automatically synchronized.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -83,10 +84,15 @@ Solutions are automatically synchronized.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
