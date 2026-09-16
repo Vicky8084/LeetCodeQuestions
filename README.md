@@ -15,6 +15,7 @@ Solutions are automatically synchronized.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ Solutions are automatically synchronized.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Vicky8084/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
